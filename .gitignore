@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+../Movies API.postman_collection
 /.pnp
 .pnp.js
 .yarn/install-state.gz
